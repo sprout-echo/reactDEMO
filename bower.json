@@ -1,0 +1,20 @@
+{
+  "name": "zhihu",
+  "description": "react demo",
+  "main": "index.js",
+  "authors": [
+    "sprout-echo <775249762@qq.com>"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.7"
+  }
+}
